@@ -1,9 +1,5 @@
-const a = 10;
-const b = 6;
+const nome = "abnner";
+const sobrenome = 'silva'
+const idade = 20;
 
-console.log(a>b);
-console.log(a<b);
-console.log(a<=b);
-console.log(a>=b);
-console.log(a==b);
-console.log(a!=b);
+console.log("meu nome é " + nome + "  " + sobrenome + "e tenho " + "" + idade + "anos");
