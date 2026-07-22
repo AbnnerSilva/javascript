@@ -1,7 +1,9 @@
-const x = 10;
-const y = 2.5;
-const nome = "jesus eu te amo, obrigado por cuidar de mim <3"
+const a = 10;
+const b = 6;
 
-const sobrenome = 'abnner quer deixar jesus contente com o comportamento dele';
-
-console.log(x);
+console.log(a>b);
+console.log(a<b);
+console.log(a<=b);
+console.log(a>=b);
+console.log(a==b);
+console.log(a!=b);
