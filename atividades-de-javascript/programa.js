@@ -1,5 +1,10 @@
-const nome = "abnner";
-const sobrenome = 'silva'
-const idade = 20;
+const vetor = ["A",190, "oi", 1.7, true];
 
-console.log("meu nome é " + nome + "  " + sobrenome + "e tenho " + "" + idade + "anos");
+const numeros = [1,2,3,4,5];
+
+const frutas =  ["maçãs", "laranjas", "peras" ];
+
+
+console.log(frutas[0]);
+
+console.log(frutas[1]);
