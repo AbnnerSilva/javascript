@@ -8,3 +8,5 @@ const frutas =  ["maçãs", "laranjas", "peras" ];
 console.log(frutas[0]);
 
 console.log(frutas[1]);
+
+console.log()
